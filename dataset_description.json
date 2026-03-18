@@ -1,0 +1,22 @@
+{
+    "Name": "Extracellular recording along macaque ventral visual pathway during natural image free viewing",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Recordings spanning six areas in the macaque ventral visual pathway (V1, V2 ,V4, PIT, CIT, AIT; primarily in CIT and AIT) including 679 experimental sessions, 883 hours, 13 monkeys, 4.6 million fixations, and thousands of natural images. For more information, see the journal article: https://www.nature.com/articles/s41593-024-01631-5.\n\nFor example code using these files, see the GitHub repository linked below under Related resources, containing code to reprocude the paper analyses. Please note that the NWB files hosted here are organized somewhat differently from the code examples, so please adapt the code accordingly.\n\nTo interactively explore the NWB files, a useful tool is HDFView (https://www.hdfgroup.org/downloads/hdfview/).",
+    "DatasetType": "raw",
+    "Authors": [
+        "Xiao, Will",
+        "Sharma, Saloni",
+        "Kreiman, Gabriel",
+        "Livingstone, Margaret"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
